@@ -9,6 +9,6 @@
         "message_url": "https:\/\/example.com\/update",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
         "bottom_visible": "no",
-        "msg_visible": "no"
+        "msg_visible": "yes"
     }
 ]
