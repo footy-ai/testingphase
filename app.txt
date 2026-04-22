@@ -1,14 +1,1 @@
-[
-    {
-        "id": "1",
-        "ads_data": "{\"sdk_key\":\"hjgh\",\"banner_ad_id\":\"asdfghh\",\"inter_ad_id\":\"asdfghjk\",\"native_ad_id\":\"adfgh\"}",
-        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
-        "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
-        "app_version": "1",
-        "message": "New update available!",
-        "message_url": "https:\/\/example.com\/update",
-        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
-        "bottom_visible": "no",
-        "msg_visible": "no"
-    }
-]
+
