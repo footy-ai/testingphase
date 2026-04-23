@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"\",\"banner_ad_id\":\"\",\"inter_ad_id\":\"\",\"native_ad_id\":\"\"}",
         "download_url": "https:\/\/example.com\/download.apk",
         "web_url": "https:\/\/example.com",
-        "app_version": "1",
+        "app_version": "5",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
         "share_message": "Share Message",
